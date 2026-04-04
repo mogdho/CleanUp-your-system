@@ -46,4 +46,4 @@ Distributed under the **MIT License**.
 ---
 
 ### 🔗 Download/Source link
-- Download/Source link - [https://github.com/mogdho/Legion-System-Optimizer]
+- Download/Source link - https://github.com/mogdho/CleanUp-your-system
