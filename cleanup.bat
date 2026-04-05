@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 chcp 65001 >nul
-title Legion Ultra Optimizer - Core 3.1 Edition
+title System Optimizer - Core 3.1 Edition
 mode con: cols=110 lines=40
 color 0B
 
@@ -15,7 +15,7 @@ net session >nul 2>&1 || (
 
 echo.
 echo  ================================================================================
-echo   LEGION SYSTEM OPTIMIZER [Core 3.1 Edition]
+echo   SYSTEM OPTIMIZER [Core 3.1 Edition]
 echo   Target Hardware: i5-13450HX ^| RTX 4060 ^| NVMe SSD
 echo  ================================================================================
 echo.
