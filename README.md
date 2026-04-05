@@ -3,7 +3,7 @@
 ![Hardware](https://img.shields.io/badge/Target-Legion_Series-blue?style=for-the-badge&logo=lenovo)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-**CleanUp your System** is a high-performance system maintenance script specifically tuned for modern gaming laptops and developer workstations. Originally designed for the **Lenovo Legion 5 (i7-13700HX | RTX 4060)**, it provides a deep sanitization of temporary files, developer caches, and graphics subsystems to ensure peak hardware responsiveness.
+**CleanUp your System** is a high-performance system maintenance script specifically tuned for modern gaming laptops and developer workstations. Originally designed for the **Lenovo Legion 5 (i5-13450HX | RTX 4060)**, it provides a deep sanitization of temporary files, developer caches, and graphics subsystems to ensure peak hardware responsiveness.
 
 ### ✨ Advanced Features
 * **Developer & AI Cache Purge:** Safely cleans `npm`, `pip`, and `Ollama` logs without affecting your local models.
