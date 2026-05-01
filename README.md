@@ -1,4 +1,4 @@
-# ⚡ CleanUp your System — System Optimizer [Core 3.2 Edition]
+# ⚡ CleanUp your System — System Optimizer For My LENOVO LEGION 5
 
 ![Batch](https://img.shields.io/badge/Script-Batch_(.bat)-orange?style=for-the-badge&logo=windows-terminal)
 ![Hardware](https://img.shields.io/badge/Target-Legion_Series-blue?style=for-the-badge&logo=lenovo)
